@@ -3,12 +3,34 @@
     <title>Special Goggles</title>
     <link href="https://roguish.github.io/special-goggles/feed.xml" rel="self" />
     <link href="https://roguish.github.io/special-goggles" />
-    <updated>2018-08-17T15:50:28+10:00</updated>
+    <updated>2018-08-17T17:36:29+10:00</updated>
     <author>
         <name>Roguish</name>
     </author>
     <id>https://roguish.github.io/special-goggles</id>
 
+    <entry>
+        <title>The Button-eyed monkey</title>
+        <author>
+            <name>Roguish</name>
+        </author>
+        <link href="https://roguish.github.io/special-goggles/the-button-eyed-monkey.html"/>
+        <id>https://roguish.github.io/special-goggles/the-button-eyed-monkey.html</id>
+
+        <updated>2018-08-17T17:36:11+10:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://roguish.github.io/special-goggles/media/posts/2/" alt="" />
+                    Photo CC by @denisseleon, Unsplash.com
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://roguish.github.io/special-goggles/media/posts/2/" alt="" />
+                Photo CC by @denisseleon, Unsplash.com
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>The First Post</title>
         <author>
