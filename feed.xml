@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Special Goggles</title>
+    <link href="https://roguish.github.io/ special-goggles/feed.xml" rel="self" />
+    <link href="https://roguish.github.io/ special-goggles" />
+    <updated>2018-08-17T15:18:36+10:00</updated>
+    <author>
+        <name>Anonymous</name>
+    </author>
+    <id>https://roguish.github.io/ special-goggles</id>
+
+    <entry>
+        <title>The First Post</title>
+        <author>
+            <name>Anonymous</name>
+        </author>
+        <link href="https://roguish.github.io/ special-goggles/the-first-post.html"/>
+        <id>https://roguish.github.io/ special-goggles/the-first-post.html</id>
+
+        <updated>2018-08-17T15:15:26+10:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://roguish.github.io/ special-goggles/media/posts/1/" alt="" />
+                    This is the first post I've written with Publii. It's a static web site generator, so I guess it's a bit like Jekyll or Hugo, except potentially easier to use. I didn't write the first paragraph there - it's just an automated placeholder. In the&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://roguish.github.io/ special-goggles/media/posts/1/" alt="" />
+                <p>This is the first post I've written with Publii. It's a static web site generator, so I guess it's a bit like Jekyll or Hugo, except potentially easier to use.</p>
+<p>I didn't write the first paragraph there - it's just an automated placeholder. In the near future I'll wite some of my very own words but first we have to get set up. Watch this space.</p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+</feed>

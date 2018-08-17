@@ -1,0 +1,28 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Special Goggles",
+    "description": "",
+    "home_page_url": "https://roguish.github.io/ special-goggles",
+    "feed_url": "https://roguish.github.io/ special-goggles/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Anonymous"
+    },
+    "items": [
+        {
+            "id": "https://roguish.github.io/ special-goggles/the-first-post.html",
+            "url": "https://roguish.github.io/ special-goggles/the-first-post.html",
+            "title": "The First Post",
+            "summary": "This is the first post I've written with Publii. It's a static web site generator, so I guess it's a bit like Jekyll or Hugo, except potentially easier to use. I didn't write the first paragraph there - it's just an automated placeholder. In the&hellip;",
+            "content_html": "<p>This is the first post I've written with Publii. It's a static web site generator, so I guess it's a bit like Jekyll or Hugo, except potentially easier to use.</p>\n<p>I didn't write the first paragraph there - it's just an automated placeholder. In the near future I'll wite some of my very own words but first we have to get set up. Watch this space.</p>\n<p> </p>",
+            "image": "https://roguish.github.io/ special-goggles/media/posts/1/",
+            "author": {
+                "name": "Anonymous"
+            },
+            "tags": [
+            ],
+            "date_published": "2018-08-17T15:15:26+10:00",
+            "date_modified": "2018-08-17T15:15:26+10:00"
+        }
+    ]
+}
