@@ -3,7 +3,7 @@
     <title>special-goggles</title>
     <link href="https://roguish.github.io/special-goggles/feed.xml" rel="self" />
     <link href="https://roguish.github.io/special-goggles" />
-    <updated>2018-08-28T22:05:22+10:00</updated>
+    <updated>2018-08-28T22:09:57+10:00</updated>
     <author>
         <name>Roguish</name>
     </author>
@@ -17,11 +17,11 @@
         <link href="https://roguish.github.io/special-goggles/its-surprising.html"/>
         <id>https://roguish.github.io/special-goggles/its-surprising.html</id>
 
-        <updated>2018-08-28T22:04:59+10:00</updated>
+        <updated>2018-08-28T22:09:43+10:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                It's surprising I can do this. I'm using Publii to post to a blog I set up on Github. It's pretty straightforward. he aim was to experiment with a flat file web site. I want to use plain text filesas the basis for a blog. A static site, obviously. But setting up Jekyll or Hugo or&nbsp;<em>xyz</em> seemed like a bit of work. Publii is seriously limited (e.g. just a handful of themes), but in a good way. It just gets the job done.
+                It's surprising I can do this. I'm using Publii to post to a blog I set up on Github. It's pretty straightforward. The aim was to experiment with a flat file web site. I want to use plain text files as the basis for a blog. A very basic static site. But setting up Jekyll or Hugo or&nbsp;<em>xyz</em> seemed like a bit of work. Publii is seriously limited (e.g. just a handful of themes), but in a good way. It gets the job done and gets out of the way. Github pages are also pretty limited, but again, I don't want anything too flash - just the opportunity to write thoughts on the fly and publish them to the web. It's not as though anyone's going to be reading them. Except AI sentiment scrapers feeding on my affect. There's that.
             ]]>
         </content>
     </entry>
