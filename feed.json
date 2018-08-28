@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Special Goggles",
+    "title": "special-goggles",
     "description": "",
     "home_page_url": "https://roguish.github.io/special-goggles",
     "feed_url": "https://roguish.github.io/special-goggles/feed.json",
@@ -10,10 +10,22 @@
     },
     "items": [
         {
+            "id": "https://roguish.github.io/special-goggles/its-surprising.html",
+            "url": "https://roguish.github.io/special-goggles/its-surprising.html",
+            "title": "It&#x27;s surprising",
+            "content_html": "It's surprising I can do this. I'm using Publii to post to a blog I set up on Github. It's pretty straightforward. he aim was to experiment with a flat file web site. I want to use plain text filesas the basis for a blog. A static site, obviously. But setting up Jekyll or Hugo or&nbsp;<em>xyz</em> seemed like a bit of work. Publii is seriously limited (e.g. just a handful of themes), but in a good way. It just gets the job done.",
+            "author": {
+                "name": "Roguish"
+            },
+            "tags": [
+            ],
+            "date_published": "2018-08-28T22:05:22+10:00",
+            "date_modified": "2018-08-28T22:04:59+10:00"
+        },
+        {
             "id": "https://roguish.github.io/special-goggles/the-button-eyed-monkey.html",
             "url": "https://roguish.github.io/special-goggles/the-button-eyed-monkey.html",
             "title": "The Button-eyed monkey",
-            "summary": "Photo CC by @denisseleon, Unsplash.com",
             "content_html": "Photo CC by @denisseleon, Unsplash.com",
             "image": "https://roguish.github.io/special-goggles/media/posts/2/",
             "author": {
@@ -21,14 +33,13 @@
             },
             "tags": [
             ],
-            "date_published": "2018-08-17T17:36:11+10:00",
+            "date_published": "2018-08-28T22:05:22+10:00",
             "date_modified": "2018-08-17T17:36:11+10:00"
         },
         {
             "id": "https://roguish.github.io/special-goggles/the-first-post.html",
             "url": "https://roguish.github.io/special-goggles/the-first-post.html",
             "title": "The First Post",
-            "summary": "This is the first post I've written with Publii. It's a static web site generator, so I guess it's a bit like Jekyll or Hugo, except potentially easier to use. I didn't write the first paragraph there - it's just an automated placeholder. In the&hellip;",
             "content_html": "<p>This is the first post I've written with Publii. It's a static web site generator, so I guess it's a bit like Jekyll or Hugo, except potentially easier to use.</p>\n<p>I didn't write the first paragraph there - it's just an automated placeholder. In the near future I'll wite some of my very own words but first we have to get set up. Watch this space.</p>\n<p> </p>",
             "image": "https://roguish.github.io/special-goggles/media/posts/1/",
             "author": {
@@ -36,7 +47,7 @@
             },
             "tags": [
             ],
-            "date_published": "2018-08-17T15:15:26+10:00",
+            "date_published": "2018-08-28T22:05:22+10:00",
             "date_modified": "2018-08-17T15:15:26+10:00"
         }
     ]
