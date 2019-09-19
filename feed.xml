@@ -3,12 +3,36 @@
     <title>Special Goggles</title>
     <link href="https://roguish.github.io/special-goggles/feed.xml" rel="self" />
     <link href="https://roguish.github.io/special-goggles" />
-    <updated>2018-09-25T22:30:42+10:00</updated>
+    <updated>2019-09-19T19:44:12+10:00</updated>
     <author>
         <name>Roguish</name>
     </author>
     <id>https://roguish.github.io/special-goggles</id>
 
+    <entry>
+        <title>Checking in again</title>
+        <author>
+            <name>Roguish</name>
+        </author>
+        <link href="https://roguish.github.io/special-goggles/checking-in-again.html"/>
+        <id>https://roguish.github.io/special-goggles/checking-in-again.html</id>
+
+        <updated>2019-09-18T23:14:44+10:00</updated>
+            <summary>
+                <![CDATA[
+                     I haven't been tending this blog for a while - in fact I almost forgot it was here. But now that I've remembered it and come back to take a look, it still seems like the idea is really good. A static site hosted&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><img class="post__image--wide" src="https://roguish.github.io/special-goggles/media/posts/5/binoculars.jpg" alt="binoculars" width="659" height="183"></p>
+<p>I haven't been tending this blog for a while - in fact I almost forgot it was here. But now that I've remembered it and come back to take a look, it still seems like the idea is really good. A static site hosted by Github (or wherever) and managed by <a href="https://getpublii.com" title="getpublii.com">Publii</a>. Publii is like a CMS for static websites. The interface is like Wordpress but much simpler, clearer and less confusing. Once installed, the whole thing is very easy to use.</p>
+<div class="_3bJ2H CHExY">
+<div class="_1l8RX _1ByhS">Photo by <a href="https://unsplash.com/@mostafa_meraji?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">mostafa meraji</a> on <a href="https://unsplash.com/search/photos/binoculars?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></div>
+</div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Sublime Merge</title>
         <author>
@@ -20,13 +44,11 @@
         <updated>2018-09-25T21:54:24+10:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://roguish.github.io/special-goggles/media/posts/4/" alt="" />
                     My next challenge is to use Sublime Merge to post to this web site. Sublime Merge is a visual Git client, made by the creators of Sublime Text - so it looks good. There are things about Git I know nothing of, so it's quite&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://roguish.github.io/special-goggles/media/posts/4/" alt="" />
                 My next challenge is to use Sublime Merge to post to this web site. Sublime Merge is a visual Git client, made by the creators of Sublime Text - so it looks good. There are things about Git I know nothing of, so it's quite a challenge.
             ]]>
         </content>
@@ -62,13 +84,11 @@
         <updated>2018-08-17T17:36:11+10:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://roguish.github.io/special-goggles/media/posts/2/" alt="" />
                     Photo CC by @denisseleon, Unsplash.com
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://roguish.github.io/special-goggles/media/posts/2/" alt="" />
                 Photo CC by @denisseleon, Unsplash.com
             ]]>
         </content>
@@ -84,13 +104,11 @@
         <updated>2018-08-17T15:15:26+10:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://roguish.github.io/special-goggles/media/posts/1/" alt="" />
                     This is the first post I've written with Publii. It's a static web site generator, so I guess it's a bit like Jekyll or Hugo, except potentially easier to use. I didn't write the first paragraph there - it's just an automated placeholder. In the&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://roguish.github.io/special-goggles/media/posts/1/" alt="" />
                 <p>This is the first post I've written with Publii. It's a static web site generator, so I guess it's a bit like Jekyll or Hugo, except potentially easier to use.</p>
 <p>I didn't write the first paragraph there - it's just an automated placeholder. In the near future I'll wite some of my very own words but first we have to get set up. Watch this space.</p>
 <p> </p>
