@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://roguish.github.io/special-goggles/its-been-a-while-but-then-again.html",
+            "url": "https://roguish.github.io/special-goggles/its-been-a-while-but-then-again.html",
+            "title": "It&#x27;s been a while, but then again...",
+            "summary": "It's been a few months since anything was posted here, but then again the set-up I'm using here still works fine. Since this is a test site, it's probably a good idea to do some tests once in a while. \"We must get used to&hellip;",
+            "content_html": "<p>It's been a few months since anything was posted here, but then again the set-up I'm using here still works fine. Since this is a test site, it's probably a good idea to do some tests once in a while. </p>\n<blockquote>\n<p>\"We must get used to being less clever than the artificial brain that we have produced, just as our teeth are less strong than a millstone and our ability to fly negligible compared with that of a jet aircraft.\" <br>- André Leroi-Gourhan, <i>Gesture and Speech</i>. English translation, Cambridge: MIT Press, 1993, p.265.</p>\n</blockquote>",
+            "author": {
+                "name": "Roguish"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-11-28T23:23:24+11:00",
+            "date_modified": "2019-11-28T23:23:24+11:00"
+        },
+        {
             "id": "https://roguish.github.io/special-goggles/checking-in-again.html",
             "url": "https://roguish.github.io/special-goggles/checking-in-again.html",
             "title": "Checking in again",
