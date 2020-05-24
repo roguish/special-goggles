@@ -3,12 +3,35 @@
     <title>Special Goggles</title>
     <link href="https://roguish.github.io/special-goggles/feed.xml" rel="self" />
     <link href="https://roguish.github.io/special-goggles" />
-    <updated>2019-11-28T23:26:19+11:00</updated>
+    <updated>2020-05-24T22:27:19+10:00</updated>
     <author>
         <name>Roguish</name>
     </author>
     <id>https://roguish.github.io/special-goggles</id>
 
+    <entry>
+        <title>Rare but precious visits</title>
+        <author>
+            <name>Roguish</name>
+        </author>
+        <link href="https://roguish.github.io/special-goggles/rare-but-precious-visits.html"/>
+        <id>https://roguish.github.io/special-goggles/rare-but-precious-visits.html</id>
+
+        <updated>2020-05-24T22:27:13+10:00</updated>
+            <summary>
+                <![CDATA[
+                     Just updating this blog when I remember it exists, which isn't very often. I'm so glad You're reading along. Thanks! And do remember to come back because there's bound to be csomething new here... Eventually.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><img class="post__image" src="https://roguish.github.io/special-goggles/media/posts/7/pawel-nolbert-4u2U8EO9OzY-unsplash-Small.jpg" alt="Pawel Nolbert - Unsplash" width="799" height="480"></p>
+<p>Just updating this blog when I remember it exists, which isn't very often. I'm so glad You're reading along. Thanks! </p>
+<p>And do remember to come back because there's bound to be csomething new here...</p>
+<p>Eventually.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>It&#x27;s been a while, but then again...</title>
         <author>
