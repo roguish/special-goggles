@@ -3,12 +3,56 @@
     <title>Special Goggles</title>
     <link href="https://roguish.github.io/special-goggles/feed.xml" rel="self" />
     <link href="https://roguish.github.io/special-goggles" />
-    <updated>2020-07-13T10:08:50+10:00</updated>
+    <updated>1970-01-01T10:00:00+10:00</updated>
     <author>
         <name>Roguish</name>
     </author>
     <id>https://roguish.github.io/special-goggles</id>
 
+    <entry>
+        <title>Publishing tool update</title>
+        <author>
+            <name>Roguish</name>
+        </author>
+        <link href="https://roguish.github.io/special-goggles/publishing-tool-update.html"/>
+        <id>https://roguish.github.io/special-goggles/publishing-tool-update.html</id>
+
+        <updated>2020-07-13T12:44:02+10:00</updated>
+            <summary>
+                <![CDATA[
+                    I’m using Publii to publish this website on Github. Now there’s a new Markdown editor, in addition to the older WYSIWYG editor. So, having updated the app, I’m: There are some extensions to basic Markdown, or Commonmark, such as: 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>I’m using <a href="https://getpublii.com/">Publii</a> to publish this website on Github. </p>
+<p>Now there’s a new <em>Markdown</em> editor, in addition to the older <em>WYSIWYG</em> editor. So, having updated the app, I’m:</p>
+<ul>
+<li>using it</li>
+<li>testing it</li>
+<li>liking it.</li>
+</ul>
+<h3 id="benefits">Benefits</h3>
+<ol>
+<li>Very simple. </li>
+<li>It just works. </li>
+<li>Also, the idea is that the editor gets out of your way. Nothing to distract from just writing.</li>
+<li>You can keep your fingers on the keyboard and add simple styling using Markdown conventions such as <strong>bold</strong> text. There are keyboard shortcuts for just about everything, as listed on the <a href="https://github.com/sparksuite/simplemde-markdown-editor#keyboard-shortcuts">SimpleMDE  ReadMe page</a></li>
+<li>It’s just a simple Markdown editor, though, so extensions such as <del>strikethrough</del> probably don’t work. Update: They do. Perhaps all <a href="https://github.github.com/gfm/">Github Flavoured Markdown</a> conventions will work. Need to check. Update: Looks like SimpleMDE uses <a href="https://github.github.com/gfm/">GFM</a>. </li>
+</ol>
+<h3 id="using-github-flavoured-markdown">Using Github Flavoured Markdown</h3>
+<p>There are some extensions to basic Markdown, or Commonmark, such as:</p>
+<ul>
+<li><input disabled="" type="checkbox"> <del>Strikethrough</del> (`~~)</li>
+<li><input disabled="" type="checkbox"> Checkboxes like the ones you see here (or not!!)</li>
+<li><input disabled="" type="checkbox"> Autolinks such as: <a href="http://www.commonmark.org">www.commonmark.org</a></li>
+</ul>
+<h3 id="images">Images</h3>
+<p><figure class="post__image"><img loading="lazy" src="http://git-scm.com/figures/18333fig0319-tn.png" data-is-external-image="true"  alt="Branching Concepts" /></figure></p>
+
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Rare but precious visits</title>
         <author>
@@ -17,15 +61,15 @@
         <link href="https://roguish.github.io/special-goggles/rare-but-precious-visits.html"/>
         <id>https://roguish.github.io/special-goggles/rare-but-precious-visits.html</id>
 
-        <updated>2020-07-13T10:08:40+10:00</updated>
+        <updated>2020-07-13T12:44:02+10:00</updated>
             <summary>
                 <![CDATA[
-                     Just updating this blog when I remember it exists, which isn't very often. I'm so glad You're reading along. Thanks! And do remember to come back because there's bound to be something new here... Eventually.
+                    Just updating this blog when I remember it exists, which isn't very often. I'm so glad You're reading along. Thanks! And do remember to come back because there's bound to be something new here... Eventually.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p><img class="post__image" src="https://roguish.github.io/special-goggles/media/posts/7/pawel-nolbert-4u2U8EO9OzY-unsplash-Small.jpg" alt="Pawel Nolbert - Unsplash" width="799" height="480"></p>
+                <figure class="post__image"><img loading="lazy"  src="https://roguish.github.io/special-goggles/media/posts/7/pawel-nolbert-4u2U8EO9OzY-unsplash-Small.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://roguish.github.io/special-goggles/media/posts/7/responsive/pawel-nolbert-4u2U8EO9OzY-unsplash-Small-xs.jpg 300w ,https://roguish.github.io/special-goggles/media/posts/7/responsive/pawel-nolbert-4u2U8EO9OzY-unsplash-Small-sm.jpg 480w ,https://roguish.github.io/special-goggles/media/posts/7/responsive/pawel-nolbert-4u2U8EO9OzY-unsplash-Small-md.jpg 768w ,https://roguish.github.io/special-goggles/media/posts/7/responsive/pawel-nolbert-4u2U8EO9OzY-unsplash-Small-lg.jpg 1024w ,https://roguish.github.io/special-goggles/media/posts/7/responsive/pawel-nolbert-4u2U8EO9OzY-unsplash-Small-xl.jpg 1360w ,https://roguish.github.io/special-goggles/media/posts/7/responsive/pawel-nolbert-4u2U8EO9OzY-unsplash-Small-2xl.jpg 1600w"  alt="Pawel Nolbert - Unsplash" width="799" height="480"></figure>
 <p>Just updating this blog when I remember it exists, which isn't very often. I'm so glad You're reading along. Thanks! </p>
 <p>And do remember to come back because there's bound to be something new here...</p>
 <p>Eventually.</p>
@@ -40,7 +84,7 @@
         <link href="https://roguish.github.io/special-goggles/its-been-a-while-but-then-again.html"/>
         <id>https://roguish.github.io/special-goggles/its-been-a-while-but-then-again.html</id>
 
-        <updated>2019-11-28T23:23:24+11:00</updated>
+        <updated>2020-07-13T12:44:02+10:00</updated>
             <summary>
                 <![CDATA[
                     It's been a few months since anything was posted here, but then again the set-up I'm using here still works fine. Since this is a test site, it's probably a good idea to do some tests once in a while. "We must get used to&hellip;
@@ -63,15 +107,15 @@
         <link href="https://roguish.github.io/special-goggles/checking-in-again.html"/>
         <id>https://roguish.github.io/special-goggles/checking-in-again.html</id>
 
-        <updated>2019-09-19T19:45:18+10:00</updated>
+        <updated>2020-07-13T12:44:02+10:00</updated>
             <summary>
                 <![CDATA[
-                     I haven't been tending this blog for a while - in fact I almost forgot it was here. But now that I've remembered it and come back to take a look, it still seems like the idea is really good. A static site hosted&hellip;
+                    I haven't been tending this blog for a while - in fact I almost forgot it was here. But now that I've remembered it and come back to take a look, it still seems like the idea is really good. A static site hosted by&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p><img class="post__image--wide" src="https://roguish.github.io/special-goggles/media/posts/5/binoculars.jpg" alt="binoculars" width="659" height="183"></p>
+                <figure class="post__image--wide"><img loading="lazy"  src="https://roguish.github.io/special-goggles/media/posts/5/binoculars.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://roguish.github.io/special-goggles/media/posts/5/responsive/binoculars-xs.jpg 300w ,https://roguish.github.io/special-goggles/media/posts/5/responsive/binoculars-sm.jpg 480w ,https://roguish.github.io/special-goggles/media/posts/5/responsive/binoculars-md.jpg 768w ,https://roguish.github.io/special-goggles/media/posts/5/responsive/binoculars-lg.jpg 1024w ,https://roguish.github.io/special-goggles/media/posts/5/responsive/binoculars-xl.jpg 1360w ,https://roguish.github.io/special-goggles/media/posts/5/responsive/binoculars-2xl.jpg 1600w"  alt="binoculars" width="659" height="183"></figure>
 <p>I haven't been tending this blog for a while - in fact I almost forgot it was here. But now that I've remembered it and come back to take a look, it still seems like the idea is really good. A static site hosted by Github (or wherever) and managed by <a href="https://getpublii.com" title="getpublii.com">Publii</a>. Publii is like a CMS for static websites. The interface is like Wordpress but much simpler, clearer and less confusing. Once installed, the whole thing is very easy to use.</p>
 <div class="_3bJ2H CHExY">
 <div class="_1l8RX _1ByhS">Photo by <a href="https://unsplash.com/@mostafa_meraji?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">mostafa meraji</a> on <a href="https://unsplash.com/search/photos/binoculars?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></div>
@@ -87,7 +131,7 @@
         <link href="https://roguish.github.io/special-goggles/sublime-merge.html"/>
         <id>https://roguish.github.io/special-goggles/sublime-merge.html</id>
 
-        <updated>2018-09-25T21:54:24+10:00</updated>
+        <updated>2020-07-13T12:44:02+10:00</updated>
             <summary>
                 <![CDATA[
                     My next challenge is to use Sublime Merge to post to this web site. Sublime Merge is a visual Git client, made by the creators of Sublime Text - so it looks good. There are things about Git I know nothing of, so it's quite&hellip;
@@ -107,7 +151,7 @@
         <link href="https://roguish.github.io/special-goggles/its-surprising.html"/>
         <id>https://roguish.github.io/special-goggles/its-surprising.html</id>
 
-        <updated>2018-08-28T22:09:43+10:00</updated>
+        <updated>2020-07-13T12:44:02+10:00</updated>
             <summary>
                 <![CDATA[
                     It's surprising I can do this. I'm using Publii to post to a blog I set up on Github. It's pretty straightforward. The aim was to experiment with a flat file web site. I want to use plain text files as the basis for a&hellip;
@@ -127,7 +171,7 @@
         <link href="https://roguish.github.io/special-goggles/the-button-eyed-monkey.html"/>
         <id>https://roguish.github.io/special-goggles/the-button-eyed-monkey.html</id>
 
-        <updated>2018-08-17T17:36:11+10:00</updated>
+        <updated>2020-07-13T12:44:02+10:00</updated>
             <summary>
                 <![CDATA[
                     Photo CC by @denisseleon, Unsplash.com
@@ -147,7 +191,7 @@
         <link href="https://roguish.github.io/special-goggles/the-first-post.html"/>
         <id>https://roguish.github.io/special-goggles/the-first-post.html</id>
 
-        <updated>2018-08-17T15:15:26+10:00</updated>
+        <updated>2020-07-13T12:44:02+10:00</updated>
             <summary>
                 <![CDATA[
                     This is the first post I've written with Publii. It's a static web site generator, so I guess it's a bit like Jekyll or Hugo, except potentially easier to use. I didn't write the first paragraph there - it's just an automated placeholder. In the&hellip;

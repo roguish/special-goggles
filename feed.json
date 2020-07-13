@@ -10,18 +10,32 @@
     },
     "items": [
         {
-            "id": "https://roguish.github.io/special-goggles/rare-but-precious-visits.html",
-            "url": "https://roguish.github.io/special-goggles/rare-but-precious-visits.html",
-            "title": "Rare but precious visits",
-            "summary": " Just updating this blog when I remember it exists, which isn't very often. I'm so glad You're reading along. Thanks! And do remember to come back because there's bound to be something new here... Eventually.",
-            "content_html": "<p><img class=\"post__image\" src=\"https://roguish.github.io/special-goggles/media/posts/7/pawel-nolbert-4u2U8EO9OzY-unsplash-Small.jpg\" alt=\"Pawel Nolbert - Unsplash\" width=\"799\" height=\"480\"></p>\n<p>Just updating this blog when I remember it exists, which isn't very often. I'm so glad You're reading along. Thanks! </p>\n<p>And do remember to come back because there's bound to be something new here...</p>\n<p>Eventually.</p>",
+            "id": "https://roguish.github.io/special-goggles/publishing-tool-update.html",
+            "url": "https://roguish.github.io/special-goggles/publishing-tool-update.html",
+            "title": "Publishing tool update",
+            "summary": "I’m using Publii to publish this website on Github. Now there’s a new Markdown editor, in addition to the older WYSIWYG editor. So, having updated the app, I’m: There are some extensions to basic Markdown, or Commonmark, such as: ",
+            "content_html": "<p>I’m using <a href=\"https://getpublii.com/\">Publii</a> to publish this website on Github. </p>\n<p>Now there’s a new <em>Markdown</em> editor, in addition to the older <em>WYSIWYG</em> editor. So, having updated the app, I’m:</p>\n<ul>\n<li>using it</li>\n<li>testing it</li>\n<li>liking it.</li>\n</ul>\n<h3 id=\"benefits\">Benefits</h3>\n<ol>\n<li>Very simple. </li>\n<li>It just works. </li>\n<li>Also, the idea is that the editor gets out of your way. Nothing to distract from just writing.</li>\n<li>You can keep your fingers on the keyboard and add simple styling using Markdown conventions such as <strong>bold</strong> text. There are keyboard shortcuts for just about everything, as listed on the <a href=\"https://github.com/sparksuite/simplemde-markdown-editor#keyboard-shortcuts\">SimpleMDE  ReadMe page</a></li>\n<li>It’s just a simple Markdown editor, though, so extensions such as <del>strikethrough</del> probably don’t work. Update: They do. Perhaps all <a href=\"https://github.github.com/gfm/\">Github Flavoured Markdown</a> conventions will work. Need to check. Update: Looks like SimpleMDE uses <a href=\"https://github.github.com/gfm/\">GFM</a>. </li>\n</ol>\n<h3 id=\"using-github-flavoured-markdown\">Using Github Flavoured Markdown</h3>\n<p>There are some extensions to basic Markdown, or Commonmark, such as:</p>\n<ul>\n<li><input disabled=\"\" type=\"checkbox\"> <del>Strikethrough</del> (`~~)</li>\n<li><input disabled=\"\" type=\"checkbox\"> Checkboxes like the ones you see here (or not!!)</li>\n<li><input disabled=\"\" type=\"checkbox\"> Autolinks such as: <a href=\"http://www.commonmark.org\">www.commonmark.org</a></li>\n</ul>\n<h3 id=\"images\">Images</h3>\n<p><figure class=\"post__image\"><img loading=\"lazy\" src=\"http://git-scm.com/figures/18333fig0319-tn.png\" data-is-external-image=\"true\"  alt=\"Branching Concepts\" /></figure></p>\n",
             "author": {
                 "name": "Roguish"
             },
             "tags": [
             ],
-            "date_published": "2020-05-24T22:27:13+10:00",
-            "date_modified": "2020-07-13T10:08:40+10:00"
+            "date_published": "2020-07-13T12:44:02+10:00",
+            "date_modified": "2020-07-13T12:44:02+10:00"
+        },
+        {
+            "id": "https://roguish.github.io/special-goggles/rare-but-precious-visits.html",
+            "url": "https://roguish.github.io/special-goggles/rare-but-precious-visits.html",
+            "title": "Rare but precious visits",
+            "summary": "Just updating this blog when I remember it exists, which isn't very often. I'm so glad You're reading along. Thanks! And do remember to come back because there's bound to be something new here... Eventually.",
+            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://roguish.github.io/special-goggles/media/posts/7/pawel-nolbert-4u2U8EO9OzY-unsplash-Small.jpg\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://roguish.github.io/special-goggles/media/posts/7/responsive/pawel-nolbert-4u2U8EO9OzY-unsplash-Small-xs.jpg 300w ,https://roguish.github.io/special-goggles/media/posts/7/responsive/pawel-nolbert-4u2U8EO9OzY-unsplash-Small-sm.jpg 480w ,https://roguish.github.io/special-goggles/media/posts/7/responsive/pawel-nolbert-4u2U8EO9OzY-unsplash-Small-md.jpg 768w ,https://roguish.github.io/special-goggles/media/posts/7/responsive/pawel-nolbert-4u2U8EO9OzY-unsplash-Small-lg.jpg 1024w ,https://roguish.github.io/special-goggles/media/posts/7/responsive/pawel-nolbert-4u2U8EO9OzY-unsplash-Small-xl.jpg 1360w ,https://roguish.github.io/special-goggles/media/posts/7/responsive/pawel-nolbert-4u2U8EO9OzY-unsplash-Small-2xl.jpg 1600w\"  alt=\"Pawel Nolbert - Unsplash\" width=\"799\" height=\"480\"></figure>\n<p>Just updating this blog when I remember it exists, which isn't very often. I'm so glad You're reading along. Thanks! </p>\n<p>And do remember to come back because there's bound to be something new here...</p>\n<p>Eventually.</p>",
+            "author": {
+                "name": "Roguish"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-07-13T12:44:02+10:00",
+            "date_modified": "2020-07-13T12:44:02+10:00"
         },
         {
             "id": "https://roguish.github.io/special-goggles/its-been-a-while-but-then-again.html",
@@ -34,22 +48,22 @@
             },
             "tags": [
             ],
-            "date_published": "2019-11-28T23:23:24+11:00",
-            "date_modified": "2019-11-28T23:23:24+11:00"
+            "date_published": "2020-07-13T12:44:02+10:00",
+            "date_modified": "2020-07-13T12:44:02+10:00"
         },
         {
             "id": "https://roguish.github.io/special-goggles/checking-in-again.html",
             "url": "https://roguish.github.io/special-goggles/checking-in-again.html",
             "title": "Checking in again",
-            "summary": " I haven't been tending this blog for a while - in fact I almost forgot it was here. But now that I've remembered it and come back to take a look, it still seems like the idea is really good. A static site hosted&hellip;",
-            "content_html": "<p><img class=\"post__image--wide\" src=\"https://roguish.github.io/special-goggles/media/posts/5/binoculars.jpg\" alt=\"binoculars\" width=\"659\" height=\"183\"></p>\n<p>I haven't been tending this blog for a while - in fact I almost forgot it was here. But now that I've remembered it and come back to take a look, it still seems like the idea is really good. A static site hosted by Github (or wherever) and managed by <a href=\"https://getpublii.com\" title=\"getpublii.com\">Publii</a>. Publii is like a CMS for static websites. The interface is like Wordpress but much simpler, clearer and less confusing. Once installed, the whole thing is very easy to use.</p>\n<div class=\"_3bJ2H CHExY\">\n<div class=\"_1l8RX _1ByhS\">Photo by <a href=\"https://unsplash.com/@mostafa_meraji?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">mostafa meraji</a> on <a href=\"https://unsplash.com/search/photos/binoculars?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Unsplash</a></div>\n</div>",
+            "summary": "I haven't been tending this blog for a while - in fact I almost forgot it was here. But now that I've remembered it and come back to take a look, it still seems like the idea is really good. A static site hosted by&hellip;",
+            "content_html": "<figure class=\"post__image--wide\"><img loading=\"lazy\"  src=\"https://roguish.github.io/special-goggles/media/posts/5/binoculars.jpg\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://roguish.github.io/special-goggles/media/posts/5/responsive/binoculars-xs.jpg 300w ,https://roguish.github.io/special-goggles/media/posts/5/responsive/binoculars-sm.jpg 480w ,https://roguish.github.io/special-goggles/media/posts/5/responsive/binoculars-md.jpg 768w ,https://roguish.github.io/special-goggles/media/posts/5/responsive/binoculars-lg.jpg 1024w ,https://roguish.github.io/special-goggles/media/posts/5/responsive/binoculars-xl.jpg 1360w ,https://roguish.github.io/special-goggles/media/posts/5/responsive/binoculars-2xl.jpg 1600w\"  alt=\"binoculars\" width=\"659\" height=\"183\"></figure>\n<p>I haven't been tending this blog for a while - in fact I almost forgot it was here. But now that I've remembered it and come back to take a look, it still seems like the idea is really good. A static site hosted by Github (or wherever) and managed by <a href=\"https://getpublii.com\" title=\"getpublii.com\">Publii</a>. Publii is like a CMS for static websites. The interface is like Wordpress but much simpler, clearer and less confusing. Once installed, the whole thing is very easy to use.</p>\n<div class=\"_3bJ2H CHExY\">\n<div class=\"_1l8RX _1ByhS\">Photo by <a href=\"https://unsplash.com/@mostafa_meraji?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">mostafa meraji</a> on <a href=\"https://unsplash.com/search/photos/binoculars?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Unsplash</a></div>\n</div>",
             "author": {
                 "name": "Roguish"
             },
             "tags": [
             ],
-            "date_published": "2019-09-18T23:14:44+10:00",
-            "date_modified": "2019-09-19T19:45:18+10:00"
+            "date_published": "2020-07-13T12:44:02+10:00",
+            "date_modified": "2020-07-13T12:44:02+10:00"
         },
         {
             "id": "https://roguish.github.io/special-goggles/sublime-merge.html",
@@ -62,8 +76,8 @@
             },
             "tags": [
             ],
-            "date_published": "2018-09-25T21:54:24+10:00",
-            "date_modified": "2018-09-25T21:54:24+10:00"
+            "date_published": "2020-07-13T12:44:02+10:00",
+            "date_modified": "2020-07-13T12:44:02+10:00"
         },
         {
             "id": "https://roguish.github.io/special-goggles/its-surprising.html",
@@ -76,8 +90,8 @@
             },
             "tags": [
             ],
-            "date_published": "2018-08-28T22:04:59+10:00",
-            "date_modified": "2018-08-28T22:09:43+10:00"
+            "date_published": "2020-07-13T12:44:02+10:00",
+            "date_modified": "2020-07-13T12:44:02+10:00"
         },
         {
             "id": "https://roguish.github.io/special-goggles/the-button-eyed-monkey.html",
@@ -90,8 +104,8 @@
             },
             "tags": [
             ],
-            "date_published": "2018-08-17T17:36:11+10:00",
-            "date_modified": "2018-08-17T17:36:11+10:00"
+            "date_published": "2020-07-13T12:44:02+10:00",
+            "date_modified": "2020-07-13T12:44:02+10:00"
         },
         {
             "id": "https://roguish.github.io/special-goggles/the-first-post.html",
@@ -104,8 +118,8 @@
             },
             "tags": [
             ],
-            "date_published": "2018-08-17T15:15:26+10:00",
-            "date_modified": "2018-08-17T15:15:26+10:00"
+            "date_published": "2020-07-13T12:44:02+10:00",
+            "date_modified": "2020-07-13T12:44:02+10:00"
         }
     ]
 }
