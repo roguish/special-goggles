@@ -17,10 +17,10 @@
         <link href="https://roguish.github.io/special-goggles/publishing-tool-update.html"/>
         <id>https://roguish.github.io/special-goggles/publishing-tool-update.html</id>
 
-        <updated>2020-07-13T12:44:02+10:00</updated>
+        <updated>2020-07-13T12:46:25+10:00</updated>
             <summary>
                 <![CDATA[
-                    I’m using Publii to publish this website on Github. Now there’s a new Markdown editor, in addition to the older WYSIWYG editor. So, having updated the app, I’m: There are some extensions to basic Markdown, or Commonmark, such as: 
+                    I’m using Publii to publish this website on Github. Now there’s a new Markdown editor, in addition to the older WYSIWYG editor. So, having updated the app, I’m: There are some extensions to basic Markdown, or Commonmark, such as: Strikethrough (`~~) Checkboxes like the ones&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -47,8 +47,6 @@
 <li><input disabled="" type="checkbox"> Checkboxes like the ones you see here (or not!!)</li>
 <li><input disabled="" type="checkbox"> Autolinks such as: <a href="http://www.commonmark.org">www.commonmark.org</a></li>
 </ul>
-<h3 id="images">Images</h3>
-<p><figure class="post__image"><img loading="lazy" src="http://git-scm.com/figures/18333fig0319-tn.png" data-is-external-image="true"  alt="Branching Concepts" /></figure></p>
 
             ]]>
         </content>
@@ -61,7 +59,7 @@
         <link href="https://roguish.github.io/special-goggles/rare-but-precious-visits.html"/>
         <id>https://roguish.github.io/special-goggles/rare-but-precious-visits.html</id>
 
-        <updated>2020-07-13T12:44:02+10:00</updated>
+        <updated>2020-07-13T12:46:25+10:00</updated>
             <summary>
                 <![CDATA[
                     Just updating this blog when I remember it exists, which isn't very often. I'm so glad You're reading along. Thanks! And do remember to come back because there's bound to be something new here... Eventually.
@@ -84,7 +82,7 @@
         <link href="https://roguish.github.io/special-goggles/its-been-a-while-but-then-again.html"/>
         <id>https://roguish.github.io/special-goggles/its-been-a-while-but-then-again.html</id>
 
-        <updated>2020-07-13T12:44:02+10:00</updated>
+        <updated>2020-07-13T12:46:25+10:00</updated>
             <summary>
                 <![CDATA[
                     It's been a few months since anything was posted here, but then again the set-up I'm using here still works fine. Since this is a test site, it's probably a good idea to do some tests once in a while. "We must get used to&hellip;
@@ -107,7 +105,7 @@
         <link href="https://roguish.github.io/special-goggles/checking-in-again.html"/>
         <id>https://roguish.github.io/special-goggles/checking-in-again.html</id>
 
-        <updated>2020-07-13T12:44:02+10:00</updated>
+        <updated>2020-07-13T12:46:25+10:00</updated>
             <summary>
                 <![CDATA[
                     I haven't been tending this blog for a while - in fact I almost forgot it was here. But now that I've remembered it and come back to take a look, it still seems like the idea is really good. A static site hosted by&hellip;
@@ -131,7 +129,7 @@
         <link href="https://roguish.github.io/special-goggles/sublime-merge.html"/>
         <id>https://roguish.github.io/special-goggles/sublime-merge.html</id>
 
-        <updated>2020-07-13T12:44:02+10:00</updated>
+        <updated>2020-07-13T12:46:25+10:00</updated>
             <summary>
                 <![CDATA[
                     My next challenge is to use Sublime Merge to post to this web site. Sublime Merge is a visual Git client, made by the creators of Sublime Text - so it looks good. There are things about Git I know nothing of, so it's quite&hellip;
@@ -151,7 +149,7 @@
         <link href="https://roguish.github.io/special-goggles/its-surprising.html"/>
         <id>https://roguish.github.io/special-goggles/its-surprising.html</id>
 
-        <updated>2020-07-13T12:44:02+10:00</updated>
+        <updated>2020-07-13T12:46:25+10:00</updated>
             <summary>
                 <![CDATA[
                     It's surprising I can do this. I'm using Publii to post to a blog I set up on Github. It's pretty straightforward. The aim was to experiment with a flat file web site. I want to use plain text files as the basis for a&hellip;
@@ -171,7 +169,7 @@
         <link href="https://roguish.github.io/special-goggles/the-button-eyed-monkey.html"/>
         <id>https://roguish.github.io/special-goggles/the-button-eyed-monkey.html</id>
 
-        <updated>2020-07-13T12:44:02+10:00</updated>
+        <updated>2020-07-13T12:46:25+10:00</updated>
             <summary>
                 <![CDATA[
                     Photo CC by @denisseleon, Unsplash.com
@@ -191,7 +189,7 @@
         <link href="https://roguish.github.io/special-goggles/the-first-post.html"/>
         <id>https://roguish.github.io/special-goggles/the-first-post.html</id>
 
-        <updated>2020-07-13T12:44:02+10:00</updated>
+        <updated>2020-07-13T12:46:25+10:00</updated>
             <summary>
                 <![CDATA[
                     This is the first post I've written with Publii. It's a static web site generator, so I guess it's a bit like Jekyll or Hugo, except potentially easier to use. I didn't write the first paragraph there - it's just an automated placeholder. In the&hellip;
