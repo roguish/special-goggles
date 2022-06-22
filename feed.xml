@@ -3,7 +3,7 @@
     <title>Special Goggles</title>
     <link href="https://roguish.github.io/special-goggles/feed.xml" rel="self" />
     <link href="https://roguish.github.io/special-goggles" />
-    <updated>2022-06-22T22:39:41+10:00</updated>
+    <updated>2022-06-22T22:47:53+10:00</updated>
     <author>
         <name>Roguish</name>
     </author>
@@ -79,15 +79,15 @@ Look out, blogger.com!</p>
         <link href="https://roguish.github.io/special-goggles/comments-with-publii.html"/>
         <id>https://roguish.github.io/special-goggles/comments-with-publii.html</id>
 
-        <updated>2022-04-29T19:01:08+10:00</updated>
+        <updated>2022-06-22T22:47:53+10:00</updated>
             <summary>
                 <![CDATA[
-                    Publii is the CMS I use for this very ocassional blog. To be honest, I’m just kicking the tyres, testing out whether I really want to use a static website hosted on Github. So far so good, but obviously there isn’t much information here. Since you’re reading, though: welcome to a very exclusice club, and do let me know what you’re up to by emailing roguish at gmail dot com. I’m especially interested in your experiences of static web sites and other CMS options such as WordPress, whether as a reader, a writer, or a developer. That brings me to the subject of this post: comments. Until now, Publii was pretty bare-bones, and like all static websites, didn’t have a&hellip;
+                    Publii is the CMS I use for this very ocassional blog. To be honest, I’m just kicking the tyres, testing out whether I really want to use a static website hosted on Github. So far so good, but obviously there isn’t much information here. Since you’re reading, though: welcome to a very exclusive club, and do let me know what you’re up to by emailing roguish at gmail dot com. I’m especially interested in your experiences of static web sites and other CMS options such as WordPress, whether as a reader, a writer, or a developer. That brings me to the subject of this post: comments. Until now, Publii was pretty bare-bones, and like all static websites, didn’t have a&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>Publii is the CMS I use for this very ocassional blog. To be honest, I’m just kicking the tyres, testing out whether I really want to use a static website hosted on Github. So far so good, but obviously there isn’t much information here. Since you’re reading, though: welcome to a very exclusice club, and do let me know what you’re up to by emailing roguish at gmail dot com. I’m especially interested in your experiences of static web sites and other CMS options such as WordPress, whether as a reader, a writer, or a developer.</p>
+                <p>Publii is the CMS I use for this very ocassional blog. To be honest, I’m just kicking the tyres, testing out whether I really want to use a static website hosted on Github. So far so good, but obviously there isn’t much information here. Since you’re reading, though: welcome to a very exclusive club, and do let me know what you’re up to by emailing roguish at gmail dot com. I’m especially interested in your experiences of static web sites and other CMS options such as WordPress, whether as a reader, a writer, or a developer.</p>
 <p>That brings me to the subject of this post: comments.</p>
 <p>Until now, Publii was pretty bare-bones, and like all static websites, didn’t have a comments option. This is because comments require some kind of dynamic interactions that a static website just isn’t up to. Usually this involves Javascript, which static sites can’t easily handle.</p>
 <p>But now there’s a new version of Publii which has plugins. At this early point the plugins that are available will provide a static site with analytics and/or comments. </p>
