@@ -11,6 +11,20 @@
     },
     "items": [
         {
+            "id": "https://roguish.github.io/special-goggles/where-next-after-publii.html",
+            "url": "https://roguish.github.io/special-goggles/where-next-after-publii.html",
+            "title": "Where next after Publii?",
+            "summary": "Publii is the static site generator I've been testing out. A static site generator enables you to publish a website or blog without needing a database in the back-end. A site is really just a collection of pages that can be written in markdown. There's no interactive functionality that depends on Javascript or similar, hence 'static'. It's been interesting to see just how easy it is to publish a blog on GitHub Pages, using Publii as the CMS. But now I've tried it I can't help thinking that Publii is a little too constraining for my tastes. Of course, there's a fine line between simplifying things, which Publii does well, and removing options. Let's face it, this site isn't exactly the&hellip;",
+            "content_html": "<p>Publii is the static site generator I've been testing out.</p>\n<p>A static site generator enables you to publish a website or blog without needing a database in the back-end. A site is really just a collection of pages that can be written in markdown. There's no interactive functionality that depends on Javascript or similar, hence 'static'.</p>\n<p>It's been interesting to see just how easy it is to publish a blog on GitHub Pages, using Publii as the CMS.</p>\n<p>But now I've tried it I can't help thinking that Publii is a little too constraining for my tastes. </p>\n<p>Of course, there's a fine line between simplifying things, which Publii does well, and removing options. </p>\n<p>Let's face it, this site isn't exactly the most beautiful thing in existence, but it's hard to improve its looks.</p>\n<p>Things are a little too hard to tweak, but I want to get the layout exactly as I want it, not as the CMS forces me.</p>\n<p>That means it's probably time to try a different static site generator.</p>\n<p>I'm thinking of trying out Hugo, which I can probably just plug into GitHub pages, although I seem to remember GitHub was promoting the use of Jekyll. </p>\n<p>So this site might go quiet for a while, for me to concentrate on learning how to deploy a site with Hugo.</p>\n<p>And I'll report back as soon as there's something to report.</p>\n<p> </p>\n<p> </p>\n<p> </p>",
+            "author": {
+                "name": "Roguish"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-06-22T23:07:40+10:00",
+            "date_modified": "2022-06-22T23:07:40+10:00"
+        },
+        {
             "id": "https://roguish.github.io/special-goggles/from-short-form-to-long-form.html",
             "url": "https://roguish.github.io/special-goggles/from-short-form-to-long-form.html",
             "title": "From short-form to long-form",
@@ -136,20 +150,6 @@
             ],
             "date_published": "2018-08-28T22:04:59+10:00",
             "date_modified": "2018-08-28T22:09:43+10:00"
-        },
-        {
-            "id": "https://roguish.github.io/special-goggles/the-button-eyed-monkey.html",
-            "url": "https://roguish.github.io/special-goggles/the-button-eyed-monkey.html",
-            "title": "The Button-eyed monkey",
-            "summary": "Photo CC by @denisseleon, Unsplash.com",
-            "content_html": "Photo CC by @denisseleon, Unsplash.com",
-            "author": {
-                "name": "Roguish"
-            },
-            "tags": [
-            ],
-            "date_published": "2018-08-17T17:36:11+10:00",
-            "date_modified": "2018-08-17T17:36:11+10:00"
         }
     ]
 }

@@ -3,12 +3,45 @@
     <title>Special Goggles</title>
     <link href="https://roguish.github.io/special-goggles/feed.xml" rel="self" />
     <link href="https://roguish.github.io/special-goggles" />
-    <updated>2022-06-22T22:53:36+10:00</updated>
+    <updated>2022-06-22T23:07:40+10:00</updated>
     <author>
         <name>Roguish</name>
     </author>
     <id>https://roguish.github.io/special-goggles</id>
 
+    <entry>
+        <title>Where next after Publii?</title>
+        <author>
+            <name>Roguish</name>
+        </author>
+        <link href="https://roguish.github.io/special-goggles/where-next-after-publii.html"/>
+        <id>https://roguish.github.io/special-goggles/where-next-after-publii.html</id>
+
+        <updated>2022-06-22T23:07:40+10:00</updated>
+            <summary>
+                <![CDATA[
+                    Publii is the static site generator I've been testing out. A static site generator enables you to publish a website or blog without needing a database in the back-end. A site is really just a collection of pages that can be written in markdown. There's no interactive functionality that depends on Javascript or similar, hence 'static'. It's been interesting to see just how easy it is to publish a blog on GitHub Pages, using Publii as the CMS. But now I've tried it I can't help thinking that Publii is a little too constraining for my tastes. Of course, there's a fine line between simplifying things, which Publii does well, and removing options. Let's face it, this site isn't exactly the&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Publii is the static site generator I've been testing out.</p>
+<p>A static site generator enables you to publish a website or blog without needing a database in the back-end. A site is really just a collection of pages that can be written in markdown. There's no interactive functionality that depends on Javascript or similar, hence 'static'.</p>
+<p>It's been interesting to see just how easy it is to publish a blog on GitHub Pages, using Publii as the CMS.</p>
+<p>But now I've tried it I can't help thinking that Publii is a little too constraining for my tastes. </p>
+<p>Of course, there's a fine line between simplifying things, which Publii does well, and removing options. </p>
+<p>Let's face it, this site isn't exactly the most beautiful thing in existence, but it's hard to improve its looks.</p>
+<p>Things are a little too hard to tweak, but I want to get the layout exactly as I want it, not as the CMS forces me.</p>
+<p>That means it's probably time to try a different static site generator.</p>
+<p>I'm thinking of trying out Hugo, which I can probably just plug into GitHub pages, although I seem to remember GitHub was promoting the use of Jekyll. </p>
+<p>So this site might go quiet for a while, for me to concentrate on learning how to deploy a site with Hugo.</p>
+<p>And I'll report back as soon as there's something to report.</p>
+<p> </p>
+<p> </p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>From short-form to long-form</title>
         <author>
@@ -246,26 +279,6 @@ Look out, blogger.com!</p>
         <content type="html">
             <![CDATA[
                 It's surprising I can do this. I'm using Publii to post to a blog I set up on Github. It's pretty straightforward. The aim was to experiment with a flat file web site. I want to use plain text files as the basis for a blog. A very basic static site. But setting up Jekyll or Hugo or&nbsp;<em>xyz</em> seemed like a bit of work. Publii is seriously limited (e.g. just a handful of themes), but in a good way. It gets the job done and gets out of the way. Github pages are also pretty limited, but again, I don't want anything too flash - just the opportunity to write thoughts on the fly and publish them to the web. It's not as though anyone's going to be reading them. Except AI sentiment scrapers feeding on my affect. There's that.
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>The Button-eyed monkey</title>
-        <author>
-            <name>Roguish</name>
-        </author>
-        <link href="https://roguish.github.io/special-goggles/the-button-eyed-monkey.html"/>
-        <id>https://roguish.github.io/special-goggles/the-button-eyed-monkey.html</id>
-
-        <updated>2018-08-17T17:36:11+10:00</updated>
-            <summary>
-                <![CDATA[
-                    Photo CC by @denisseleon, Unsplash.com
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                Photo CC by @denisseleon, Unsplash.com
             ]]>
         </content>
     </entry>
