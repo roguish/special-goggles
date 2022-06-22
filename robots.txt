@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://roguish.github.io/special-goggles/sitemap.xml
