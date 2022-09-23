@@ -3,7 +3,7 @@
     <title>Special Goggles</title>
     <link href="https://roguish.github.io/special-goggles/feed.xml" rel="self" />
     <link href="https://roguish.github.io/special-goggles" />
-    <updated>2022-09-23T13:02:11+10:00</updated>
+    <updated>2022-09-23T13:10:52+10:00</updated>
     <author>
         <name>Roguish</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://roguish.github.io/special-goggles/making-a-more-beautiful-website.html"/>
         <id>https://roguish.github.io/special-goggles/making-a-more-beautiful-website.html</id>
 
-        <updated>2022-09-23T13:02:11+10:00</updated>
+        <updated>2022-09-23T13:10:52+10:00</updated>
             <summary>
                 <![CDATA[
                     In my previous post I grumbled about the limited site-editing features of the Publii framework. I said: "this site isn't exactly the most beautiful thing in existence, but it's hard to improve its looks." On reflection, it's probably not Publii's fault, but mine. After all, I'm the designer, however amateur. All design must work within constraints of some kind, and good design makes use of the inevitable constraints to create a beautiful, pleasing or useful outcome. So I had another try. If in doubt, simplify, said someone, somewhere, once. So I took out the AI-generated header image and removed most of the colour. That has certainly helped to improve the look of the site. A few additional tweaks and it's&hellip;
@@ -30,6 +30,7 @@
 <p>On reflection, it's probably not Publii's fault, but mine. After all, I'm the designer, however amateur. All design must work within constraints of some kind, and good design makes use of the inevitable constraints to create a beautiful, pleasing or useful outcome.</p>
 <p>So I had another try.</p>
 <p>If in doubt, simplify, said someone, somewhere, once. So I took out the AI-generated header image and removed most of the colour. That has certainly helped to improve the look of the site. A few additional tweaks and it's better already.</p>
+<p>I added a new icon for the header: disguise.png, which I credit to <a href="#INTERNAL_LINK#/post/null" title="https://www.flaticon.com/free-icons/birthday-and-party" target="_blank" rel="nofollow noopener noreferrer">smashingstocks - Flaticon</a></p>
 <p>Let me know what you think by emailing roguish at outlook dot com. I'd love to hear your opinion and any thoughts you might have about Publii and other static website templating engines. </p>
             ]]>
         </content>
