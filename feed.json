@@ -11,6 +11,20 @@
     },
     "items": [
         {
+            "id": "https://roguish.github.io/special-goggles/making-a-more-beautiful-website.html",
+            "url": "https://roguish.github.io/special-goggles/making-a-more-beautiful-website.html",
+            "title": "Making a more beautiful website",
+            "summary": "In my previous post I grumbled about the limited site-editing features of the Publii framework. I said: \"this site isn't exactly the most beautiful thing in existence, but it's hard to improve its looks.\" On reflection, it's probably not Publii's fault, but mine. After all, I'm the designer, however amateur. All design must work within constraints of some kind, and good design makes use of the inevitable constraints to create a beautiful, pleasing or useful outcome. So I had another try. If in doubt, simplify, said someone, somewhere, once. So I took out the AI-generated header image and removed most of the colour. That has certainly helped to improve the look of the site. A few additional tweaks and it's&hellip;",
+            "content_html": "<p>In my previous post I grumbled about the limited site-editing features of the Publii framework.</p>\n<p>I said: \"this site isn't exactly the most beautiful thing in existence, but it's hard to improve its looks.\"</p>\n<p>On reflection, it's probably not Publii's fault, but mine. After all, I'm the designer, however amateur. All design must work within constraints of some kind, and good design makes use of the inevitable constraints to create a beautiful, pleasing or useful outcome.</p>\n<p>So I had another try.</p>\n<p>If in doubt, simplify, said someone, somewhere, once. So I took out the AI-generated header image and removed most of the colour. That has certainly helped to improve the look of the site. A few additional tweaks and it's better already.</p>\n<p>Let me know what you think by emailing roguish at outlook dot com. I'd love to hear your opinion and any thoughts you might have about Publii and other static website templating engines. </p>",
+            "author": {
+                "name": "Roguish"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-09-23T12:48:12+10:00",
+            "date_modified": "2022-09-23T12:48:12+10:00"
+        },
+        {
             "id": "https://roguish.github.io/special-goggles/where-next-after-publii.html",
             "url": "https://roguish.github.io/special-goggles/where-next-after-publii.html",
             "title": "Where next after Publii?",
@@ -135,20 +149,6 @@
             ],
             "date_published": "2018-09-25T21:54:24+10:00",
             "date_modified": "2018-09-25T21:54:24+10:00"
-        },
-        {
-            "id": "https://roguish.github.io/special-goggles/its-surprising.html",
-            "url": "https://roguish.github.io/special-goggles/its-surprising.html",
-            "title": "It&#x27;s surprising",
-            "summary": "It's surprising I can do this. I'm using Publii to post to a blog I set up on Github. It's pretty straightforward. The aim was to experiment with a flat file web site. I want to use plain text files as the basis for a blog. A very basic static site. But setting up Jekyll or Hugo or&nbsp;xyz seemed like a bit of work. Publii is seriously limited (e.g. just a handful of themes), but in a good way. It gets the job done and gets out of the way. Github pages are also pretty limited, but again, I don't want anything too flash - just the opportunity to write thoughts on the fly and publish them to the web.",
-            "content_html": "It's surprising I can do this. I'm using Publii to post to a blog I set up on Github. It's pretty straightforward. The aim was to experiment with a flat file web site. I want to use plain text files as the basis for a blog. A very basic static site. But setting up Jekyll or Hugo or&nbsp;<em>xyz</em> seemed like a bit of work. Publii is seriously limited (e.g. just a handful of themes), but in a good way. It gets the job done and gets out of the way. Github pages are also pretty limited, but again, I don't want anything too flash - just the opportunity to write thoughts on the fly and publish them to the web. It's not as though anyone's going to be reading them. Except AI sentiment scrapers feeding on my affect. There's that.",
-            "author": {
-                "name": "Roguish"
-            },
-            "tags": [
-            ],
-            "date_published": "2018-08-28T22:04:59+10:00",
-            "date_modified": "2018-08-28T22:09:43+10:00"
         }
     ]
 }

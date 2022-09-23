@@ -3,12 +3,37 @@
     <title>Special Goggles</title>
     <link href="https://roguish.github.io/special-goggles/feed.xml" rel="self" />
     <link href="https://roguish.github.io/special-goggles" />
-    <updated>2022-06-22T23:07:40+10:00</updated>
+    <updated>2022-09-23T12:48:12+10:00</updated>
     <author>
         <name>Roguish</name>
     </author>
     <id>https://roguish.github.io/special-goggles</id>
 
+    <entry>
+        <title>Making a more beautiful website</title>
+        <author>
+            <name>Roguish</name>
+        </author>
+        <link href="https://roguish.github.io/special-goggles/making-a-more-beautiful-website.html"/>
+        <id>https://roguish.github.io/special-goggles/making-a-more-beautiful-website.html</id>
+
+        <updated>2022-09-23T12:48:12+10:00</updated>
+            <summary>
+                <![CDATA[
+                    In my previous post I grumbled about the limited site-editing features of the Publii framework. I said: "this site isn't exactly the most beautiful thing in existence, but it's hard to improve its looks." On reflection, it's probably not Publii's fault, but mine. After all, I'm the designer, however amateur. All design must work within constraints of some kind, and good design makes use of the inevitable constraints to create a beautiful, pleasing or useful outcome. So I had another try. If in doubt, simplify, said someone, somewhere, once. So I took out the AI-generated header image and removed most of the colour. That has certainly helped to improve the look of the site. A few additional tweaks and it's&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>In my previous post I grumbled about the limited site-editing features of the Publii framework.</p>
+<p>I said: "this site isn't exactly the most beautiful thing in existence, but it's hard to improve its looks."</p>
+<p>On reflection, it's probably not Publii's fault, but mine. After all, I'm the designer, however amateur. All design must work within constraints of some kind, and good design makes use of the inevitable constraints to create a beautiful, pleasing or useful outcome.</p>
+<p>So I had another try.</p>
+<p>If in doubt, simplify, said someone, somewhere, once. So I took out the AI-generated header image and removed most of the colour. That has certainly helped to improve the look of the site. A few additional tweaks and it's better already.</p>
+<p>Let me know what you think by emailing roguish at outlook dot com. I'd love to hear your opinion and any thoughts you might have about Publii and other static website templating engines. </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Where next after Publii?</title>
         <author>
@@ -257,26 +282,6 @@ Look out, blogger.com!</p>
         <content type="html">
             <![CDATA[
                 My next challenge is to use Sublime Merge to post to this web site. Sublime Merge is a visual Git client, made by the creators of Sublime Text - so it looks good. There are things about Git I know nothing of, so it's quite a challenge.
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>It&#x27;s surprising</title>
-        <author>
-            <name>Roguish</name>
-        </author>
-        <link href="https://roguish.github.io/special-goggles/its-surprising.html"/>
-        <id>https://roguish.github.io/special-goggles/its-surprising.html</id>
-
-        <updated>2018-08-28T22:09:43+10:00</updated>
-            <summary>
-                <![CDATA[
-                    It's surprising I can do this. I'm using Publii to post to a blog I set up on Github. It's pretty straightforward. The aim was to experiment with a flat file web site. I want to use plain text files as the basis for a blog. A very basic static site. But setting up Jekyll or Hugo or&nbsp;xyz seemed like a bit of work. Publii is seriously limited (e.g. just a handful of themes), but in a good way. It gets the job done and gets out of the way. Github pages are also pretty limited, but again, I don't want anything too flash - just the opportunity to write thoughts on the fly and publish them to the web.
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                It's surprising I can do this. I'm using Publii to post to a blog I set up on Github. It's pretty straightforward. The aim was to experiment with a flat file web site. I want to use plain text files as the basis for a blog. A very basic static site. But setting up Jekyll or Hugo or&nbsp;<em>xyz</em> seemed like a bit of work. Publii is seriously limited (e.g. just a handful of themes), but in a good way. It gets the job done and gets out of the way. Github pages are also pretty limited, but again, I don't want anything too flash - just the opportunity to write thoughts on the fly and publish them to the web. It's not as though anyone's going to be reading them. Except AI sentiment scrapers feeding on my affect. There's that.
             ]]>
         </content>
     </entry>
